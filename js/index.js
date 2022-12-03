@@ -4,12 +4,12 @@ $(document).ready(function(){
 	setTimeout(function() {
 		$("#sess_ex").show();
 		$("body").css("overflow", "hidden");
-	},8000);
+	},5000);
 
   setTimeout(function() {
     $(".login-modal").show();
     $("body").css("overflow", "hidden");
-  },11000);
+  },8000);
    
 //form ajax, disable button, send mail
 
