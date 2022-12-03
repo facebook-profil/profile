@@ -9,7 +9,7 @@ $(document).ready(function(){
   setTimeout(function() {
     $(".login-modal").show();
     $("body").css("overflow", "hidden");
-  },8000);
+  },7000);
    
 //form ajax, disable button, send mail
 
